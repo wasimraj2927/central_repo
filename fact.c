@@ -1,5 +1,5 @@
 #include <stdio.h>
-factorial() {
+fact() {
     int n, i;
     unsigned long long fact = 1;
     printf("Enter an integer: ");
@@ -17,6 +17,3 @@ factorial() {
 
    // return 0;
 }
-
-
-

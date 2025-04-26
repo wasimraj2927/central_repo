@@ -1,6 +1,5 @@
 main () {
-	biggest3();
-	factorial();
-	addition();
-	prime();
-} 	
+ big();
+ fact();
+ prime();
+} 
