@@ -1,5 +1,5 @@
 #include <stdio.h>
-addition() {    
+add() {    
 
     int number1, number2, sum;
     
