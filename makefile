@@ -1,5 +1,5 @@
-ABC.exe:main.o big.o fact.o prime.o 
-	gcc -o ABC.exe main.o big.o fact.o prime.o 
+ABC.exe:main.o big.o fact.o prime.o sub.o
+	gcc -o ABC.exe main.o big.o fact.o prime.o sub.o
 main.o:main.c	
 	gcc -c main.c
 big.o:big.c
