@@ -3,4 +3,5 @@ main () {
  fact();
  prime();
  add();
+ sub();
 } 

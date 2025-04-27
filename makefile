@@ -9,4 +9,6 @@ fact.o:fact.c
 prime.o:prime.c
 	gcc -c prime.c
 add.o:add.c
-	gcc -c add.c	
+	gcc -c add.c
+sub.o:sub.c
+	gcc -c sub.c	
